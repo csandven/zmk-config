@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: nice_nano_v2
+  - board: nice_nano/nrf52840/zmk
     shield: choctopus44
