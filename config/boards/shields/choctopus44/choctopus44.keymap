@@ -32,7 +32,7 @@
         &kp LSHFT   &kp Z     &kp X       &kp C     &kp V    &kp B      &kp RET   &kp N     &kp M     &kp COMMA  &kp DOT  &kp FSLH  &kp BSLH
                               &kp LALT   &mo LOWER  &kp BSPC    &kp RET               &kp DEL  &kp SPACE   &lt RAISE_WIN RGUI   &kp RALT
       >;
-      sensor-bindings = <&inc_dec_kp UP DOWN>;
+      sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
     };
 
     mac_default_layer {
